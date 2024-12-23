@@ -1,1 +1,1 @@
-[View my thesis]("Navigating the landscape of Academic Writing.pdf")
+[View my thesis](Navigating the landscape of Academic Writing.pdf)
